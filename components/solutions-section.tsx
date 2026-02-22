@@ -184,9 +184,9 @@ export default function SolutionsSection() {
         <div className="flex flex-col items-center mb-16">
           {/* Label with lines */}
           <div className="flex items-center gap-4 mb-6">
-            <div className="h-px w-16 bg-[#c02020]" />
+            <div className="h-px w-16 bg-[#110909]" />
             <span
-              className="text-xs md:text-sm tracking-[0.3em] uppercase font-semibold text-[#c02020]"
+              className="text-s md:text-Sm tracking-[0.3em] uppercase font-bold text-[#652525]"
               style={{
                 fontFamily: "var(--font-playfair), serif",
                 letterSpacing: "0.25em",
@@ -194,7 +194,7 @@ export default function SolutionsSection() {
             >
               Our Solutions
             </span>
-            <div className="h-px w-16 bg-[#c02020]" />
+            <div className="h-px w-16 bg-[#292424]" />
           </div>
 
           {/* Main heading */}
